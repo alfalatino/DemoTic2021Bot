@@ -2,7 +2,7 @@ import sys
 import os
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-token = "5110810785:AAHIFxzfSKg-QBbqfERnmkRfesAYq243NgI"
+token"1"
 
 def inicio(bot, update):
     try:
